@@ -14,3 +14,9 @@ Their dependencies are:
  - numpy
  - signal
  - sys
+
+## Contact
+Autor      | cleanet
+------------|----------
+Website  |  https://www.cleannet.260mb.net
+Email      |  cleannet29@gmail.com
