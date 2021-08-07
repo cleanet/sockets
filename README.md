@@ -1,3 +1,4 @@
+![Sockets](/screenshots/sockets.png)
 # sockets
 This project is a small practice of sockets connections in python
 
