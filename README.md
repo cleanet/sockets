@@ -1,4 +1,4 @@
-![Sockets](/screenshots/sockets.png)
+![Sockets](https://github.com/cleanet/sockets/blob/master/screenshots/sockets.png)
 # sockets
 This project is a small practice of sockets connections in python
 
